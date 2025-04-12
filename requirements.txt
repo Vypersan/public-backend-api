@@ -1,0 +1,4 @@
+fastapi==0.103.2
+aiosqlite==0.20.0
+u-copsapi==0.2.3
+uvicorn== 0.23.2
